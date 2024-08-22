@@ -1,2 +1,2 @@
 # Git-and-GitHub
-This is git and github informative repo
+This is git and github informative repo.
